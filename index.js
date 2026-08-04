@@ -1,2 +1,1 @@
-console.log("My name is Sahil Srivastava");
-console.log("Hello today");
+console.log("hello world");
